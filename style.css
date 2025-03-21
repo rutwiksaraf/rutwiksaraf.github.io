@@ -834,7 +834,7 @@ noscript {
 .resume-btn,
 .sign {
     align-items: center;
-    transition-duration: .3s;
+    /* transition-duration: .3s; */
     display: flex
 }
 
@@ -912,7 +912,7 @@ noscript {
     opacity: 0;
     font-size: 1em;
     font-weight: 600;
-    transition-duration: .3s
+    /* transition-duration: .3s */
 }
 /* 
 .resume-btn:hover {
